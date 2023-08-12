@@ -19,3 +19,5 @@ I am a learner
 [![](https://visitcount.itsvg.in/api?id=muhammadrendysa&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+[![](https://visitcount.itsvg.in/api?id=muhammadrendysa&label=Profile%20Views&color=0&icon=5&pretty=false)](https://visitcount.itsvg.in)
